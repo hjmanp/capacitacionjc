@@ -1,0 +1,192 @@
+# Vim 7.3 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+:wq
+:i
+:q
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	 
+
+# Marcas en el archivo:
+'0  1  0  ~/.gitignore
+'1  2  3  ~/.gitignore
+'2  1  0  /etc/apache2/sites-enabled/capacitacionjc
+'3  16  0  /etc/apache2/sites-enabled/capacitacionjc
+'4  12  10  /etc/apache2/sites-enabled/capacitacionjc
+'5  8  6  /etc/apache2/sites-enabled/capacitacionjc
+'6  4  15  /etc/apache2/sites-enabled/capacitacionjc
+'7  1  38  /etc/hosts
+'8  18  67  /etc/apache2/sites-enabled/capacitacionjc
+'9  1  15  /etc/apache2/sites-enabled/000-default
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/.gitignore
+-'  2  3  ~/.gitignore
+-'  1  0  /etc/apache2/sites-enabled/capacitacionjc
+-'  16  0  /etc/apache2/sites-enabled/capacitacionjc
+-'  12  10  /etc/apache2/sites-enabled/capacitacionjc
+-'  8  6  /etc/apache2/sites-enabled/capacitacionjc
+-'  4  15  /etc/apache2/sites-enabled/capacitacionjc
+-'  1  38  /etc/hosts
+-'  18  67  /etc/apache2/sites-enabled/capacitacionjc
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  38  /etc/hosts
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+-'  1  15  /etc/apache2/sites-enabled/000-default
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.gitignore
+	"	1	0
+	^	2	4
+	.	2	3
+	+	2	3
+
+> /etc/apache2/sites-enabled/capacitacionjc
+	"	1	0
+	^	16	0
+	.	22	0
+	+	55	34
+	+	51	34
+	+	23	23
+	+	1	11
+	+	22	0
+	+	1	12
+	+	1	12
+	+	2	37
+	+	7	0
+	+	3	54
+	+	7	0
+	+	6	24
+	+	7	56
+	+	10	15
+	+	11	8
+	+	17	8
+	+	7	9
+	+	13	57
+	+	14	15
+	+	17	17
+	+	17	18
+	+	13	59
+	+	17	59
+	+	18	8
+	+	18	68
+	+	4	15
+	+	3	20
+	+	12	10
+	+	20	0
+	+	21	0
+	+	22	0
+
+> /etc/hosts
+	"	1	38
+	^	1	39
+	.	1	38
+	+	1	38
+
+> /etc/apache2/sites-enabled/000-default
+	"	1	15
+	.	1	15
+	+	1	15
